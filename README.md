@@ -1,2 +1,3 @@
 # odin-recipes
-The odin project assignments
+
+"testing the git new setup"
